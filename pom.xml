@@ -26,7 +26,7 @@
   
   <properties>
 	<!-- versions -->
-	<sonar.host.url>15.206.81.226:9000</sonar.host.url>
+	<sonar.host.url>15.206.81.226</sonar.host.url>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>></sonar.host.url>
